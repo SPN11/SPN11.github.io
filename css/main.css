@@ -3,6 +3,7 @@ body {
     width: 70%;
     background-image: url(/images/wintery-pittsburgh.jpg); 
     background-repeat: no-repeat;
+    #align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
