@@ -1,9 +1,9 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+	max-width: 960px;
+    margin: 40px auto 40px;
+    width: 65%;
     background-image: url(/images/wintery-pittsburgh.jpg); 
     background-repeat: no-repeat;
-    #align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -19,6 +19,8 @@ a {
     text-decoration: none;
     color: #999;
 }
+
+
 a:hover {
     text-decoration: underline;
 }
