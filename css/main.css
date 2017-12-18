@@ -18,6 +18,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    font-size: 1.5em;
 }
 
 
@@ -27,6 +28,14 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 2em;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h3 {
+	font-size: 1.7em;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p, a {
     font-size: 1.5em;
@@ -40,9 +49,12 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
-ul.posts li {
-    list-style: none;
+li {
+    margin: 10px auto 10px; 
+    font-size: 1em;
+    list-style-type: circle;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
