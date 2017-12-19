@@ -21,6 +21,10 @@ a {
     font-size: 1.2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+img.center {
+	display: block;
+	margin: 0 auto;
+}
 
 a:hover {
     text-decoration: underline;
@@ -28,6 +32,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: #335;
 }
 h2 {
     font-size: 2em;
@@ -43,6 +48,9 @@ p {
     font-size: 1.3em;
     line-height: 1.4em;
     color: #333;
+}
+p.indent {
+	text-indent: 1.8em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
