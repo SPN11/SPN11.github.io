@@ -2,8 +2,8 @@ body {
 	max-width: 960px;
     margin: 40px auto 40px;
     width: 65%;
-    background-image: url(/images/wintery-pittsburgh.jpg); 
-    background-repeat: no-repeat;
+    background-image: url(/images/b25.png); 
+    background-repeat: repeat;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
